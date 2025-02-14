@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaWindowsAndLinuxButtonPressCounter", "AvaloniaWindowsAndLinuxButtonPressCounter\AvaloniaWindowsAndLinuxButtonPressCounter.csproj", "{65B94366-3EDF-AFC6-517A-A7570DC6F6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaWindowsAndLinuxButtonPressCounter.Desktop", "AvaloniaWindowsAndLinuxButtonPressCounter.Desktop\AvaloniaWindowsAndLinuxButtonPressCounter.Desktop.csproj", "{59E88F50-0635-757E-B4B5-557CA9791F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B94366-3EDF-AFC6-517A-A7570DC6F6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B94366-3EDF-AFC6-517A-A7570DC6F6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B94366-3EDF-AFC6-517A-A7570DC6F6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B94366-3EDF-AFC6-517A-A7570DC6F6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E88F50-0635-757E-B4B5-557CA9791F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E88F50-0635-757E-B4B5-557CA9791F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E88F50-0635-757E-B4B5-557CA9791F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E88F50-0635-757E-B4B5-557CA9791F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AF2150-476F-4792-B942-1993307233A8}
+	EndGlobalSection
+EndGlobal
