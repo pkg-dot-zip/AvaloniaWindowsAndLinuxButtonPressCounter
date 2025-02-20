@@ -1,6 +1,8 @@
 # AvaloniaWindowsAndLinuxButtonPressCounter
 Sample Avalonia application to learn building C# projects on Linux! 😇
 
+This README will tell you how to do this manually. If you however prefer a bash script to automate this process, look [here](docs/cloneGitAndBuildAndRunDotNetProject.sh) for a pre-made script.
+
 ## How to build this application on Linux
 *Please note that for this project we used Debian Bookworm. 📚 We advice beginners following this guide to do the same!*
 
